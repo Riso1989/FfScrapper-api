@@ -1,0 +1,181 @@
+[
+  {
+    "name": "GDT Price Index",
+    "percentage": true,
+    "lessIsBetter": false,
+    "forecast": [
+      -5.66,
+      -1.98,
+      -0.5,
+      1.4,
+      4.26
+    ],
+    "previous": [
+      -4.92,
+      -2.6,
+      -0.1,
+      1.68,
+      6
+    ]
+  },
+  {
+    "name": "ANZ Commodity Prices m/m",
+    "percentage": true,
+    "lessIsBetter": false,
+    "previous": [
+      -2.72,
+      -1.1,
+      0.1,
+      1.48,
+      3.06
+    ]
+  },
+  {
+    "name": "Building Consents m/m",
+    "percentage": true,
+    "lessIsBetter": false,
+    "previous": [
+      -17.7,
+      -6.48,
+      -0.2,
+      7.76,
+      18.48
+    ]
+  },
+  {
+    "name": "NZIER Business Confidence",
+    "percentage": false,
+    "lessIsBetter": false,
+    "previous": [
+      -173.72,
+      -49.06,
+      0,
+      26.42,
+      202.14
+    ]
+  },
+  {
+    "name": "FPI m/m",
+    "percentage": true,
+    "lessIsBetter": false,
+    "previous": [
+      -1.7,
+      -0.6,
+      0.1,
+      0.7,
+      1.5
+    ]
+  },
+  {
+    "name": "Business NZ Manufacturing Index",
+    "percentage": false,
+    "lessIsBetter": false,
+    "previous": [
+      -6.23,
+      -2.16,
+      -0.37,
+      2.59,
+      6.07
+    ]
+  },
+  {
+    "name": "Unemployment Rate",
+    "percentage": true,
+    "lessIsBetter": true,
+    "forecast": [
+      -0.4,
+      -0.1,
+      0,
+      0.1,
+      0.3
+    ],
+    "previous": [
+      -0.43,
+      -0.2,
+      -0,
+      0.1,
+      0.43
+    ]
+  },
+  {
+    "name": "Employment Change q/q",
+    "percentage": true,
+    "lessIsBetter": false,
+    "forecast": [
+      -0.73,
+      -0.1,
+      0.1,
+      0.49,
+      0.83
+    ],
+    "previous": [
+      -1.3,
+      -0.5,
+      -0.1,
+      0.5,
+      1.4
+    ]
+  },
+  {
+    "name": "Labor Cost Index q/q",
+    "percentage": true,
+    "lessIsBetter": false,
+    "forecast": [
+      -0.2,
+      -0.1,
+      0,
+      0,
+      0.1
+    ],
+    "previous": [
+      -0.3,
+      -0.1,
+      0,
+      0.09,
+      0.2
+    ]
+  },
+  {
+    "name": "Credit Card Spending y/y",
+    "percentage": true,
+    "lessIsBetter": false,
+    "previous": [
+      -3,
+      -1.5,
+      -0.2,
+      1.1,
+      3.38
+    ]
+  },
+  {
+    "name": "Visitor Arrivals m/m",
+    "percentage": true,
+    "lessIsBetter": false,
+    "previous": [
+      -5.7,
+      -2.68,
+      -0.2,
+      2.88,
+      5.7
+    ]
+  },
+  {
+    "name": "Trade Balance",
+    "percentage": false,
+    "lessIsBetter": false,
+    "forecast": [
+      -123.61,
+      -39.86,
+      2.41,
+      64.55,
+      267.8
+    ],
+    "previous": [
+      -250.05,
+      -65.06,
+      13.49,
+      54.06,
+      196.97
+    ]
+  }
+]
